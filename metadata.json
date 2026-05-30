@@ -1,0 +1,6 @@
+{
+  "name": "Paidwork",
+  "description": "Earn coins by completing tasks like watching rewarded videos from AdMob, StartApp, Unity Ads, and AppLovin. Modern green design with English and Arabic support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
